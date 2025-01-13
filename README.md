@@ -15,13 +15,13 @@ Um aplicativo simples para visualizar a previsão do tempo de diversas cidades.
 1. Clone o repositório:
 
     ```bash
-    git clone <URL do repositório>
+    git clone https://github.com/<seu-usuario>/PrevisaoDoTempo.github.io.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd <nome_do_diretorio>
+    cd PrevisaoDoTempo.github.io
     ```
 
 3. Abra o arquivo `index.html` no seu navegador preferido.
